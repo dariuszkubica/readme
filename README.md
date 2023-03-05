@@ -8,7 +8,12 @@ In my head I started getting ideas for numerous applications that will improve m
 - 🌱 I’m currently learning unit tests
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a pet cat named Gilbert 😺
-- 🔥 I'm interested in: 3D modeling and printing 🔩, Video editing 🎥, Filming 🎬, Gaming 🎮, Electronics 📱
+- 🔥 I'm interested in: 
+      🔩 3D modeling and printing 
+      🎥 Video editing 
+      🎬 Filming 
+      🎮 Gaming 
+      📱 Electronics 
 <!--
 **dariuszkubica/dariuszkubica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
