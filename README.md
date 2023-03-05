@@ -9,11 +9,11 @@ In my head I started getting ideas for numerous applications that will improve m
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a pet cat named Gilbert 😺
 - 🔥 I'm interested in: <br />
-      🔩 3D modeling and printing <br />
-      🎥 Video editing <br />
-      🎬 Filming <br />
-      🎮 Gaming <br />
-      📱 Electronics <br />
+      🔹 3D modeling and printing 🔩<br />
+      🔹 Video editing 🎥<br />
+      🔹 Filming 🎬<br />
+      🔹 Gaming 🎮<br />
+      🔹 Electronics 📱<br />
 <!--
 **dariuszkubica/dariuszkubica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
