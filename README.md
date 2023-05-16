@@ -4,7 +4,7 @@ I am a novice programmer who is fascinated by the world of flutter.<br />
 Since early 2022 when I first heard about it I immediately fell in love with them 😍.<br />
 In my head I started getting ideas for numerous applications that will improve my daily activities as well as a deep desire to refresh old websites and take them to the next level 🌍
 
-- 🔭 I’m currently working on my app in GooglePlay 'Party Potion' 🍹
+- 🔭 I’m currently working on my new app 📱
 - 🌱 I’m currently learning unit tests
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a pet cat named Gilbert 😺
